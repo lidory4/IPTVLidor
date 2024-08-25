@@ -63,14 +63,14 @@ http://bethoven.af-stream.com:1600/s/3naei0f7/discovery-hd-il/video.m3u8
 http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/477539
 #EXTINF:-1 tvg-id="history-il"tvg-logo="https://af-play.com/storage/images/channel_logos/e5d6375123f5ebcedc995ace38ae2281.png"group-title="Israel"catchup-days="7",ערוץ ההיסטוריה HD
 http://bethoven.af-stream.com:1600/s/3naei0f7/history-il/video.m3u8
-#EXTINF:-1 tvg-id="travel-channel-il"tvg-logo="https://playapplication.hot.net.il/_media/ChannelLogo/168_xxxhdpi.png"group-title="Israel"catchup-days="7",Travel Channel HD IL
+#EXTINF:-1 tvg-id="travel-channel-il"tvg-logo="https://af-play.com/storage/images/pack_logos/e43ce618a5987c2c96a9c855b50e7fd5.png"group-title="Israel"catchup-days="7",Travel Channel HD IL
 http://bethoven.af-stream.com:1600/s/3naei0f7/travel-channel-il/video.m3u8
 #EXTINF:-1 tvg-id="TRAVEL+"tvg-logo="https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/travelplus.jpg"group-title="Israel"catchup-days="7",TRAVEL+
 http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/822223
-#EXTINF:-1 tvg-id="TRAVEL CHANNEL"tvg-logo="https://imgur.com/r5rgdu8.png"group-title="Israel"catchup-days="7",ערוץ הטיולים
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL"tvg-logo="https://i.imgur.com/PYeATGe.png"group-title="Israel"catchup-days="7",ערוץ הטיולים
 http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/477517
-#EXTINF:-1 tvg-id="the-food-channel-il"tvg-logo="https://playapplication.hot.net.il/_media/ChannelLogo/166_xxxhdpi.png"group-title="Israel"catchup-days="7",ערוץ האוכל
-http://bethoven.af-stream.com:1600/s/3naei0f7/the-food-channel-il/video.m3u8
+#EXTINF:-1 tvg-id="the-food-channel-il"tvg-logo="https://af-play.com/storage/images/channel_logos/32d5f1311db8c0c008ccc99010b63b69.png"group-title="Israel"catchup-days="7",ערוץ האוכל
+http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/477527
 #EXTINF:-1 tvg-id="FOOD+"tvg-logo="https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/foodplus.jpg"group-title="Israel"catchup-days="7",FOOD+
 http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/822224
 #EXTINF:-1 tvg-id="foody-il-hd"tvg-logo="https://af-play.com/storage/images/channel_logos/9845a9f5ac2ab723860193771dc7159d.png"group-title="Israel"catchup-days="7",Foody HD
