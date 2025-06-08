@@ -49,8 +49,9 @@ http://bethoven.af-stream.com:1600/s/sdj9vmk5/kan23-il/video.m3u8
 http://bethoven.af-stream.com:1600/s/sdj9vmk5/channel24-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="music-il-hd"tvg-logo="https://af-play.com/storage/images/channel_logos/e74ab1b6d7349cc3e01d0adce26465c0.png"group-title="Israel"catchup-days="0",Music HD
 http://bethoven.af-stream.com:1600/s/sdj9vmk5/music-il-hd/video.m3u8
-#EXTINF:-1 tvg-id="classic-comedy-channel-il-hd"tvg-logo="https://af-play.com/storage/images/channel_logos/f60f6a835e2abcb9152060302543c4b2.png"group-title="Israel"catchup-days="7",Classic Comedy Channel HD
-http://bethoven.af-stream.com:1600/s/sdj9vmk5/classic-comedy-channel-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="big-brother-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/0c817034e8d2150efe72380c0d1e4c14.png" tvg-rec="7" catchup-days="7",Big Brother HD
+#EXTGRP:Israel
+http://bethoven.af-stream.com:1600/s/sdj9vmk5/big-brother-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="animal-planet-il-hd"tvg-logo="https://af-play.com/storage/images/channel_logos/8a884c1498e31cf01561d106901189cc.png"group-title="Israel"catchup-days="7",Animal Planet HD IL
 http://bethoven.af-stream.com:1600/s/sdj9vmk5/animal-planet-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="yes-natgeo-wild-il-hd"tvg-logo="https://af-play.com/storage/images/pack_logos/629e51301eaac62d7f3247a1de37bd9c.png"group-title="Israel"catchup-days="7",Nat Geo Wild HD IL
@@ -248,3 +249,5 @@ http://bethoven.af-stream.com:1600/s/sdj9vmk5/entertainment-il/video.m3u8
 http://bethoven.af-stream.com:1600/s/sdj9vmk5/hot-8-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="hot3-hd-il"tvg-logo="https://af-play.com/storage/images/pack_logos/74c1c0d13bf5172b80ddf344979cf483.png"group-title="Israel"catchup-days="7",HOT 3 HD
 http://bethoven.af-stream.com:1600/s/sdj9vmk5/hot3-hd-il/video.m3u8
+#EXTINF:-1 tvg-id="classic-comedy-channel-il-hd"tvg-logo="https://af-play.com/storage/images/channel_logos/f60f6a835e2abcb9152060302543c4b2.png"group-title="Israel"catchup-days="7",Classic Comedy Channel HD
+http://bethoven.af-stream.com:1600/s/sdj9vmk5/classic-comedy-channel-il-hd/video.m3u8
