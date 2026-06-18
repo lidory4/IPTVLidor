@@ -93,10 +93,6 @@ http://bethoven.af-stream.com:8080/s/zyt8yoyy/hot-8-il-hd/video.m3u8
 http://bethoven.af-stream.com:8080/s/zyt8yoyy/entertainment-il/video.m3u8
 #EXTINF:0 group-title="Israel" tvg-id="tlc-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/9463764213db79cc28bafe08cd5da15f.png" tvg-rec="7" catchup-days="7",TLC HD IL
 http://bethoven.af-stream.com:8080/s/zyt8yoyy/tlc-il-hd/video.m3u8
-#EXTINF:0 group-title="Israel" tvg-id="e-il" tvg-logo="https://af-play.com/storage/images/pack_logos/79a7cd7f6cd0740aeea34b9809e451eb.png" tvg-rec="7" catchup-days="7",E! HD
-http://bethoven.af-stream.com:8080/s/zyt8yoyy/e-il/video.m3u8
-#EXTINF:0 group-title="Israel" tvg-id="yes-docu-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/b86048f86751ae047a20e51d3e9cd9f2.png" tvg-rec="7" catchup-days="7",Yes Docu HD
-http://bethoven.af-stream.com:8080/s/zyt8yoyy/yes-docu-il-hd/video.m3u8
 #EXTINF:0 group-title="Israel" tvg-id="one-doco-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/4abd02987bbe2c63e76691cb5546a2a3.png" tvg-rec="7" catchup-days="7",One Doco HD
 http://bethoven.af-stream.com:8080/s/zyt8yoyy/one-doco-il-hd/video.m3u8
 #EXTINF:0 group-title="Israel" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png" tvg-rec="7" catchup-days="7",One 2 HD
@@ -131,6 +127,10 @@ http://bethoven.af-stream.com:8080/s/zyt8yoyy/eurosport1-il-hd/video.m3u8
 http://bethoven.af-stream.com:8080/s/zyt8yoyy/eurosport2-il-hd/video.m3u8
 #EXTINF:0 group-title="Israel" tvg-id="ego-total-il" tvg-logo="https://af-play.com/storage/images/channel_logos/708c7aac0cb2d3b36df078ac9e03ca71.png" tvg-rec="7" catchup-days="7",Ego Channel HD
 http://bethoven.af-stream.com:8080/s/zyt8yoyy/ego-total-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-docu-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/b86048f86751ae047a20e51d3e9cd9f2.png" tvg-rec="7" catchup-days="7",Yes Docu HD
+http://bethoven.af-stream.com:8080/s/zyt8yoyy/yes-docu-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="e-il" tvg-logo="https://af-play.com/storage/images/pack_logos/79a7cd7f6cd0740aeea34b9809e451eb.png" tvg-rec="7" catchup-days="7",E! HD
+http://bethoven.af-stream.com:8080/s/zyt8yoyy/e-il/video.m3u8
 #EXTINF:0 group-title="Israel" tvg-id="yamtihoni-il" tvg-logo="https://af-play.com/storage/images/channel_logos/c106807b0cc3b511840ea0ec2e804ca8.png" tvg-rec="7" catchup-days="7",Yam Tichoni HD
 http://bethoven.af-stream.com:8080/s/zyt8yoyy/yamtihoni-il/video.m3u8
 #EXTINF:0 group-title="Israel" tvg-id="yam-tichoni-plus-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png" tvg-rec="7" catchup-days="7",Yam Tichoni+ HD
